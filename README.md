@@ -1,3 +1,12 @@
+# Reverse Engineering Code
+
+## Description
+
+## Screenshots
+
+## License
+
+
 # Unit 14 Sequelize Homework: Reverse Engineering Code
 
 Reverse engineer the starter code provided and create a tutorial for the code.
